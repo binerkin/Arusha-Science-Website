@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="130mm"
-   height="130mm"
-   viewBox="0 0 460.62993 460.62991"
+   width="138mm"
+   height="131mm"
+   viewBox="0 0 488.97641 464.17322"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="478.928"
+     inkscape:cx="329.9305"
      inkscape:cy="174.78208"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-1"
      showgrid="false"
-     inkscape:window-width="1857"
-     inkscape:window-height="1057"
+     inkscape:window-width="1954"
+     inkscape:window-height="1129"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -52,15 +52,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-591.73224)">
+     transform="translate(0,-588.18893)">
     <g
        transform="translate(-3.9791314,-778.90214)"
        id="layer1-1"
        inkscape:label="Layer 1">
       <circle
          r="126.55351"
-         cy="1509.2747"
-         cx="238.4041"
+         cy="1495.2747"
+         cx="246.4041"
          id="path4136"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.03000021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
@@ -68,9 +68,9 @@
          id="text4138"
          y="1731.4335"
          x="9.7702141"
-         style="font-style:normal;font-weight:normal;font-size:124.48905182px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:124.48905182px;line-height:125%;font-family:'Sitka Heading';-inkscape-font-specification:'Sitka Heading Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sitka Heading';-inkscape-font-specification:'Sitka Heading';fill:#ffffff;fill-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Sitka Heading';-inkscape-font-specification:'Sitka Heading Bold';fill:#ffffff;fill-opacity:1"
            y="1731.4335"
            x="9.7702141"
            id="tspan4140"
@@ -90,12 +90,12 @@
          sodipodi:linespacing="125%"
          id="text4138-7"
          y="1826.285"
-         x="2.1467397"
-         style="font-style:normal;font-weight:normal;font-size:121.5533371px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="6.14674"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:121.5533371px;line-height:125%;font-family:'Sitka Heading';-inkscape-font-specification:'Sitka Heading Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sitka Heading';-inkscape-font-specification:'Sitka Heading';fill:#ffffff;fill-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Sitka Heading';-inkscape-font-specification:'Sitka Heading Bold';fill:#ffffff;fill-opacity:1"
            y="1826.285"
-           x="2.1467397"
+           x="6.14674"
            id="tspan4140-2"
            sodipodi:role="line">SCIENCE</tspan></text>
     </g>

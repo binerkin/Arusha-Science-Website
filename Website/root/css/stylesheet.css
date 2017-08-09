@@ -38,7 +38,7 @@ header img {
 	width: 100px;
 	text-align: center;
 	border-bottom: 7px solid white;
-	padding-bottom: 10px;
+	padding-bottom: 8px;
 	cursor: pointer;
 }
 .linkList li:hover {
@@ -52,13 +52,16 @@ header img {
 .mainArticleWrapper {
 	background-color: white;
 	margin: 0 auto;
-	margin-bottom: 10px;
 }
 .mainArticleWrapper h4 {
 	/*text-align: center;*/
 }
 .mainArticleWrapper p {
 	font-size: 14px;
+	padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-bottom: 8px;
 }
 .mainArticleWrapper img {
 	width: 270px;
@@ -75,25 +78,58 @@ header img {
 	background-color: white;
 	width: 267px;
 	margin: 15px;
+	margin-bottom: 0px;
 	border-bottom: 7px solid #214478;
-	/*border: lightgray;
-	border-style: solid;
-	border-width: 1px;*/
+}
+.mainArticleLeft:hover {
+	background-color: #f0f4f7;
+	cursor: pointer;
+}
+.articleLinkWrapper {
+	width: 75px;
+    height: 22px;
+    padding-left: 185px;
+}
+.articleLinkWrapper p{
+	float: left;
+	margin: 0px;
+	padding: 0px;
+    font-size: 12px;
+}
+.articleLinkWrapper img{
+	float: right;
+	margin: 0px;
 }
 .informationWrapper {
 	display: inline-block;
-	height: 250px;
+	height: 120px;
 	background-color: white;
-	margin-top: 10px;
-	margin-bottom: 5px;
+	margin-top: 15px;
 }
-.newsFeed {
+.newsFeed{
 	margin: 15px;
+	float: left;
+}
+.social {
+	float: right;
+	padding: 14px;
+}
+#socialMedia {
+	float: left;
+	padding-right: 30px;
+}
+#socialMedia img:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
+#newsLetter {
+	float: right;
 }
 footer {
 	background-color: #214478;
 	max-width: 100%;
 	height: 200px;
+	margin-top: 130px;
 }
 .siteInformationBox{
 	width: 140px;
@@ -104,6 +140,9 @@ footer img {
 	padding-bottom: 0px;
 	margin: 0 auto;
 }
+.siteInformationBox {
+	float: left;
+}
 .siteInformationBox p {
 	font-size: 8px;
 	color: white;
@@ -111,4 +150,10 @@ footer img {
 	margin: 0 auto;
 	padding-top: 5px;
 	text-align: center;
+}
+.siteMap img {
+	width: 672px;
+	height: 138px;
+	padding-left: 180px;
+	padding-top: 30px;
 }
